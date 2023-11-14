@@ -9,7 +9,6 @@ public class Main {
                 System.out.println("Aukeratu eragiketa bat:");
                 System.out.println("1. Batuketa \t 2. Kenketa");
                 System.out.println("3. Biderketa \t 4. Zatiketa");
-                System.out.println("5. Berreketa \t 6. Hondarra");
                 int aukera = sc.nextInt();
                 if (aukera < 1 || aukera > 6)
                 {
