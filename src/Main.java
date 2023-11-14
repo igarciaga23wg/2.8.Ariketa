@@ -43,7 +43,7 @@ public class Main {
                                 break;
 
                         }
-                        System.out.println("Eragiketaren emaitza " + emaitza + " da.");
+                        System.out.println("Eragiketa emaitza " + emaitza + " da.");
                     }
                 }
                 sc.close();
