@@ -39,7 +39,7 @@ public class Main {
                                 emaitza = zenb1* zenb2;
                                 break;
                             case 4:
-                                emaitza = zenb1 / zenb2;
+                                emaitza = zenb1/ zenb2;
                                 break;
 
                         }
