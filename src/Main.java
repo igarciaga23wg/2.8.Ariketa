@@ -41,10 +41,7 @@ public class Main {
                             case 4:
                                 emaitza = zenb1/ zenb2;
                                 break;
-                            case 5:
-                                factorial = factorial * i;
-                                emaitza=factorial;
-                                break;
+
                         }
                         System.out.println("Eragiketa emaitza " + emaitza + " da.");
                     }
